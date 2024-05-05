@@ -1,0 +1,17 @@
+Global Waits by Time
+Event Class,Total # Events,Total Time,Avg Time,Max Time
+wait/io/file/innodb/innodb_data_file,5899,1708622.68,289.65,112264.07
+wait/io/file/innodb/innodb_log_file,1966,982857.32,499.93,291604.98
+wait/io/file/innodb/innodb_dblwr_file,380,122616.74,322.68,7731.82
+wait/io/file/sql/binlog,207,85416.37,412.64,10371.30
+wait/io/file/innodb/innodb_temp_file,84,30597.56,364.26,6039.95
+wait/io/table/sql/handler,252,17934.24,71.17,10003.64
+wait/io/file/sql/binlog_index,21,14424.09,686.86,10268.34
+wait/io/file/sql/slow_log,4,4987.26,1246.81,4847.91
+wait/io/file/sql/ERRMSG,5,4666.02,933.20,1587.76
+wait/io/file/sql/casetest,15,4143.01,276.20,2888.12
+wait/io/file/sql/misc,7,2013.90,287.70,838.57
+wait/io/file/sql/pid,3,665.14,221.71,587.33
+wait/io/file/mysys/charset,3,304.65,101.55,254.15
+wait/io/file/mysys/cnf,5,183.22,36.64,82.55
+wait/lock/table/sql/handler,8,21.72,2.71,4.28

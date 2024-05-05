@@ -1,0 +1,19 @@
+I/O Statistics
+User,IO Event Type,Total IOs (#),Total Time,Max Time
+background,wait/io/file/innodb/innodb_log_file,1966,982857.32,291604.98
+background,wait/io/file/innodb/innodb_data_file,4784,980656.11,9318.43
+background,wait/io/file/innodb/innodb_dblwr_file,380,122616.74,7731.82
+background,wait/io/file/innodb/innodb_temp_file,73,29391.53,6039.95
+background,wait/io/file/sql/binlog,20,23301.16,10371.30
+background,wait/io/file/sql/binlog_index,21,14424.09,10268.34
+background,wait/io/file/sql/slow_log,4,4987.26,4847.91
+background,wait/io/file/sql/ERRMSG,5,4666.02,1587.76
+background,wait/io/file/sql/casetest,15,4143.01,2888.12
+background,wait/io/file/sql/pid,3,665.14,587.33
+background,wait/io/file/mysys/charset,3,304.65,254.15
+background,wait/io/file/mysys/cnf,5,183.22,82.55
+background,wait/io/file/sql/misc,1,85.07,85.07
+root,wait/io/file/innodb/innodb_data_file,1129,741933.75,112264.07
+root,wait/io/file/sql/binlog,187,62115.21,6684.11
+root,wait/io/file/sql/misc,6,1928.83,838.57
+root,wait/io/file/innodb/innodb_temp_file,1,788.84,788.84

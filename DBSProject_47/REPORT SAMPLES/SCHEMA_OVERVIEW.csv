@@ -1,0 +1,27 @@
+Schema Object Overview (High Overhead)
+Schema,Object Type,Count
+information_schema,SYSTEM VIEW,79
+inventory,BASE TABLE,7
+inventory,INDEX (BTREE),16
+mysql,BASE TABLE,35
+mysql,INDEX (BTREE),85
+performance_schema,BASE TABLE,109
+performance_schema,INDEX (HASH),236
+sakila,BASE TABLE,17
+sakila,FUNCTION,3
+sakila,INDEX (BTREE),46
+sakila,INDEX (FULLTEXT),2
+sakila,INDEX (SPATIAL),1
+sakila,PROCEDURE,3
+sakila,TRIGGER,6
+sakila,VIEW,7
+sys,BASE TABLE,1
+sys,FUNCTION,22
+sys,INDEX (BTREE),1
+sys,PROCEDURE,26
+sys,TRIGGER,2
+sys,VIEW,100
+university,BASE TABLE,11
+university,INDEX (BTREE),42
+world,BASE TABLE,3
+world,INDEX (BTREE),6

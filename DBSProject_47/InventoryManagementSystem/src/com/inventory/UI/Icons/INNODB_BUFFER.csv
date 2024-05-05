@@ -1,0 +1,4 @@
+InnoDB Buffer Stats by Schema
+Schema,Allocated,Data,Pages,Pages Hashed,Pages Old,Rows Cached
+mysql,2359296,1522786,144,57,0,936
+sys,16384,338,1,0,0,6
